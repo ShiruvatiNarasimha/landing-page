@@ -1,6 +1,8 @@
 # Landing Page
 
-![Landing Page Preview](./assets/Screenshot (198).png)  
+
+![Alt Text](./)
+
 *A sleek and modern landing page designed for showcasing products, services, or campaigns.*
 
 ## Table of Contents
