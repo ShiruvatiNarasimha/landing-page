@@ -27,7 +27,7 @@
 - **HTML5**: Semantic structure and layout.  
 - **CSS3**: Modern styling with Flexbox and Grid.  
 - **JavaScript**: Interactive functionality and dynamic content.  
-- **[Framework/Library, if used]** (e.g., React, Tailwind CSS).
+- **[HTML CSS]** 
 
 ---
 
