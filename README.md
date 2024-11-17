@@ -1,7 +1,7 @@
 # Landing Page
 
 
-![Alt Text](./)
+![Alt Text](./https://github.com/ShiruvatiNarasimha/landing-page/blob/91c025de1552dc2eec7617c56d397e497b9f227d/Screenshot%20(198).png)
 
 *A sleek and modern landing page designed for showcasing products, services, or campaigns.*
 
